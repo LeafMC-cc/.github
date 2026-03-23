@@ -1,12 +1,23 @@
-## Hi there 👋
+# LeafMC
 
-<!--
+> Competitive Minecraft — built different.
 
-**Here are some ideas to get you started:**
+LeafMC is a community-driven Minecraft network focused on competitive gameplay, clean performance, and a server experience that doesn't cut corners. Everything we run is built in-house, from our game plugins to our infrastructure tooling.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🌐 Server Information
+**Java Edition** — `play.leafmc.cc`
+
+We're a small team and most repositories are internal or read-only. If you've found a bug or have a suggestion, open an issue in the relevant repo and we'll take a look.
+
+---
+
+## 📬 Contact
+
+- **Discord** — [discord.leafmc.cc](https://discord.leafmc.cc)
+- **Website** — [leafmc.cc](https://leafmc.cc)
+
+---
+
+<sub>Built and maintained by the LeafMC team.</sub>
